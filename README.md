@@ -1,2 +1,2 @@
-0.2 is the latest version. support math constant input.
+3D_plot_tool is the latest version.
 this project will keep updating.
